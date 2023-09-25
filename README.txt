@@ -1,12 +1,6 @@
-(CV hosting repository)
-
-Directory Structure
--------------------
-css\              - Stylesheets CSS files for the template.
-images\           - Images used in template.
-scripts\          - JavaScript used in the template.
-favicon.ico       - Favicon placeholder provided for the template.
-index.html        - Main HTML page to open the template in browser.
-*.html            - Additional HTML pages (if any).
-LICENSE-*.txt     - License file as per downloaded variant.
+Hello, I am Emma!
+Welcome to my Github page.
+I am studying for a PhD in Environmental Biology at Kingston University London.
+I am working part-time within the @UP-Macroecology lab under Prof Damaris Zurrell.
+Contact me: emma.underwood@kingston.ac.uk or emma.underwood@uni-potsdam.de
 
