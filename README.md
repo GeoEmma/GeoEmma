@@ -1,2 +1,1 @@
-**# CV as a html
-**# Free template from https://templateflip.com
+**# CV as a html using a free template downloaded from https://templateflip.com
