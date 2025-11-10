@@ -1,11 +1,15 @@
 
     👋 Hi, I’m Emma
     👀 I’m interested in geospatial and EO applications for plants, ecology and biodiversity.
-    🌱 I’m currently studying for a PhD in Environmental Biology at Kingston University London and a guest within the 
+    🌱 I recently submitted my PhD thesis in Environmental Biology at Kingston University London and remain a guest within the 
         @UP-Macroecology lab under Prof Damaris Zurell.
-    📫 How to reach me ... 
+    📝 Find my summary CV and recent projects at: https://geoemma.github.io/
+    🔗 Explore my Linktree: https://linktr.ee/geospatialemma/
+    🌐 Connect with me on LinkedIn: https://www.linkedin.com/in/emmaunderwood01/
+    📫 Other ways to reach me... 
           Kingston University: emma.underwood@kingston.ac.uk
           MapAction related: eunderwood@mapaction.org
           UP-Potsdam Macroecology: underwood1@uni-potsdam.de
+
 
 
